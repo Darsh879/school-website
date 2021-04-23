@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(#4ded47 0%,#3596e6 100%)
+}
+html{
+    scroll-behavior: smooth;
+}
+img{
+margin-top: 20px;
+}
+.movie_text span{
+    color: yellow;
+}
+
+
+.movie_head i{
+float:right;
+}
+#football{
+    margin-top: 200;
+}      
